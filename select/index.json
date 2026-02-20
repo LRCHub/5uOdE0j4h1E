@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Ready to Rock",
+  "base_artist": "BAND-MAID",
+  "createdAt": "2026-02-20T13:50:56.260598Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ready to Rock",
+      "artist": "Krokus",
+      "has_synced": true,
+      "path": "select/01_Ready_to_Rock_Krokus.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ready To Rock",
+      "artist": "Exciter",
+      "has_synced": false,
+      "path": "select/02_Ready_To_Rock_Exciter.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Not Ready To Rock",
+      "artist": "Beatsteaks",
+      "has_synced": true,
+      "path": "select/03_Not_Ready_To_Rock_Beatsteaks.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Not Ready to Rock (Live At Zelle, Reutlingen)",
+      "artist": "Beatsteaks",
+      "has_synced": false,
+      "path": "select/04_Not_Ready_to_Rock_(Live_At_Zelle,_Reutlingen)_Beatsteaks.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Not Ready To Rock (Live)",
+      "artist": "Beatsteaks",
+      "has_synced": false,
+      "path": "select/05_Not_Ready_To_Rock_(Live)_Beatsteaks.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Ready To Rock",
+      "artist": "Airbourne",
+      "has_synced": false,
+      "path": "select/06_Ready_To_Rock_Airbourne.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Ready To Rock",
+      "artist": "Airbourne",
+      "has_synced": true,
+      "path": "select/07_Ready_To_Rock_Airbourne.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Ready To Rock",
+      "artist": "Whitesnake",
+      "has_synced": true,
+      "path": "select/08_Ready_To_Rock_Whitesnake.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Ready to Rock (Studio)",
+      "artist": "Whitesnake",
+      "has_synced": true,
+      "path": "select/09_Ready_to_Rock_(Studio)_Whitesnake.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Are You Ready To Rock",
+      "artist": "Michael Schenker Group",
+      "has_synced": true,
+      "path": "select/10_Are_You_Ready_To_Rock_Michael_Schenker_Group.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Ready to Rock (Live at the Budokan, Tokyo, 12 August 1981)",
+      "artist": "Michael Schenker Group",
+      "has_synced": false,
+      "path": "select/11_Ready_to_Rock_(Live_at_the_Budokan,_Tokyo,_12_August_1981)_Michael_Schenker_Group.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Are You Ready to Rock",
+      "artist": "Wizzard",
+      "has_synced": false,
+      "path": "select/12_Are_You_Ready_to_Rock_Wizzard.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Are You Ready To Rock",
+      "artist": "The Michael Schenker Group",
+      "has_synced": true,
+      "path": "select/13_Are_You_Ready_To_Rock_The_Michael_Schenker_Group.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Ready to Rock",
+      "artist": "Melidian",
+      "has_synced": true,
+      "path": "select/14_Ready_to_Rock_Melidian.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Ready To Rock",
+      "artist": "Oddisee",
+      "has_synced": true,
+      "path": "select/15_Ready_To_Rock_Oddisee.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Ready to Rock",
+      "artist": "BAND-MAID",
+      "has_synced": false,
+      "path": "select/pl_01_Ready_to_Rock_BAND-MAID.txt"
+    }
+  ]
+}
